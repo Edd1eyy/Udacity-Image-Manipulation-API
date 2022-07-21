@@ -11,4 +11,4 @@ if you open the public folder, you will find an images folder to test from. use 
 ### for example:
 writing,
 http://localhost:3000/manipulate?name=fjord&width=200&height=200.jpg
-after running the server will provide the fjord
+after running the server will provide the fjord pic with the dimensions specified
