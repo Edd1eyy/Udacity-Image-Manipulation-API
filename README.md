@@ -8,4 +8,7 @@ to build project, write "node build/.".
 
 ## give it a try
 if you open the public folder, you will find an images folder to test from. use the image name from each one as it is and put the dimensions as any positive value you want.
-Try it here: [do some manipulation]() .
+### for example:
+writing,
+http://localhost:3000/manipulate?name=fjord&width=200&height=200.jpg
+after running the server will provide the fjord
