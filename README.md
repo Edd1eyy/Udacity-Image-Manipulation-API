@@ -10,5 +10,5 @@ to build project, write "node build/.".
 if you open the public folder, you will find an images folder to test from. use the image name from each one as it is and put the dimensions as any positive value you want.
 ### for example:
 writing,
-http://localhost:3000/api/resizing?name=IMG-NAME&width=POSITIVE-VALUE&height=POSITIVE-VALUE.jpg
+http://localhost:3000/api/resizing?name=fjord&width=600&height=400.jpg
 after running the server will provide the fjord pic with the dimensions specified
